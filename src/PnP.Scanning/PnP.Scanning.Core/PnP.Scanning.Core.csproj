@@ -28,7 +28,7 @@
 		<PackageReference Include="EFCore.BulkExtensions" Version="6.5.0" />
 		<PackageReference Include="envdte" Version="17.2.32505.113" />
 		<PackageReference Include="Grpc.AspNetCore" Version="2.46.0" />
-		<PackageReference Include="Grpc.Net.Client" Version="2.46.0" />
+		<PackageReference Include="Grpc.Net.Client" Version="2.52.0" />
 		<PackageReference Include="MathNet.Numerics" Version="5.0.0" />
 		<PackageReference Include="Microsoft.AspNetCore.DataProtection.Abstractions" Version="6.0.5" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.5" />
